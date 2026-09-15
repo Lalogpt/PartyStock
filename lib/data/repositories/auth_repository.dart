@@ -17,7 +17,7 @@ class AuthRepository {
         password: password,
       );
       if (credential.user != null) {
-        return getUsuario(credential.user!.uid);
+        return await getUsuario(credential.user!.uid);
       }
     } catch (e) {
       rethrow;
