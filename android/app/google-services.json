@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424206508631",
+    "project_id": "partystock-aadb3",
+    "storage_bucket": "partystock-aadb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424206508631:android:d9dc2244af2ddec69e3912",
+        "android_client_info": {
+          "package_name": "com.example.partystock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtqJ88fS-G1fX1ey6yIe6D6YbIVgA4gQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
